@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindos ao meu perfil🐈‍⬛
 
-<!--
-**Flaviafreitas10/Flaviafreitas10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Flávia Freitas
 
-Here are some ideas to get you started:
+-Sou estudante do terceiro colegial do ensino médio.
+-Futura profissional da área da saúde.
+-sou estagiaria no centro de saúde.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Se quiser entrar em contato,me siga no instagram @flavia._freitas!
+
+
+
+- ![](https://media1.tenor.com/m/zqKPICQxecEAAAAC/dog.gif)
